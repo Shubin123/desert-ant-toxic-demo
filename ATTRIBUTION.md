@@ -6,3 +6,4 @@ Toxic is created by Desert Ant Labs B.V., copyright © 2026. [Original model](ht
 
 Browser engine source is copied from [Desert Ant Labs’ Toxic demo](https://huggingface.co/spaces/desert-ant-labs/toxic-demo/tree/main), with source notices preserved. Original weights download directly from Hugging Face and are not redistributed. ONNX Runtime is MIT licensed; Transformers.js (Schemer only) is Apache-2.0 licensed.
 
+Engine source revision: bc6a956d4161313dcd74a2c7ac70702a8e9cb910. The only engine modification is using ONNX Runtime Web 1.27.0 from jsDelivr instead of a vendored runtime directory. Original model artifacts use the upstream v0.1.0 release. The independent UI preserves per-language content thresholds, suppresses disabled heads, and shows target scores only when HATEFUL fires.
