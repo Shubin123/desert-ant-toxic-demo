@@ -3,4 +3,3 @@
   <rect x=".75" y=".75" width="62.5" height="62.5" rx="15.25" stroke="#ffb299" stroke-opacity=".18" stroke-width="1.5"/>
   <g color="#ffb299" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m32 11 22 39H10l22-39Z"/><path d="M32 24v13"/><circle cx="32" cy="43" r="1.7" fill="currentColor"/></g>
 </svg>
-
